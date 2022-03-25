@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/knative.dev/eventing-gitlab/cmd/receive_adapter@sha256:a834f245d2403842f4eeb08bed7c4b136af9d1d7e1d0a532878ec028046aadd8
